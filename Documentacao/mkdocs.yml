@@ -1,1 +1,62 @@
-site_name: My Docs
+# Informações do Projeto
+site_name: Documentação Atualização do Sistema
+site_description: 'Documentação Atualização do Sistema'
+site_author: 'Gefferson Balles'
+site_url: 'http://gs.io/docs'
+
+# Documentos e Temas
+docs_dir: 'docs'
+theme : 'material'
+
+# Copyright
+copyright: '© 2017 GS'
+
+# Opções
+extra:
+  palette:
+    primary: 'indigo'
+    accent: 'light blue'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu'
+  i18n:
+    prev: 'Anterior'
+    next: 'Próximo'
+  feature:
+    tabs: true
+  social:
+    - type: 'github'
+      link: 'https://github.com/Geffersonballes'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/in/gefferson-balles-3ab47597/'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite(guess_lang=false,linenums=true)
+  - toc(permalink=true)
+  - footnotes
+  - meta
+  - pymdownx.arithmatex
+  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tilde
+
+# Paginas
+pages:
+  - 'Home': 
+    - 'Início': 'index.md'
+  - 'Setores': 
+    - 'Agrícola': 'MD.md'
+    - 'Controladoria': ''
+  
+
