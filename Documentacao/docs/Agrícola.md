@@ -20,19 +20,19 @@ Gislayne Scheffer</br>
 <b>Diretora Administrativa</b><br>
 
 <br>____________________________</br>
-Osvaldo Moreira<br>  
+Osvaldo Moreira<br>
 <b>Gerente de TI</b></br>
 
-<br>____________________________</br>
-Marcos Paulo<br>  
+<br>____________________________</br>  
+Marcos Paulo<br>
 <b>Coordenador Agricola</b></br>
 
-<br>____________________________</br>
-Paulo Comora<br>  
+<br>____________________________</br>  
+Paulo Comora<br>
 <b>Coordenador de Sistemas</b></br>
 
-<br>____________________________</br>
-Andressa Procopio<br>  
+<br>____________________________</br>  
+Andressa Procopio<br>
 <b>Analista de controle de insumos</b></p></br>
 
 ### Entendimentos
